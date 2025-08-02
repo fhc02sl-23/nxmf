@@ -1,2 +1,3 @@
 
-fatal: not a git repository (or any of the parent directories): .git
+Der Befehl "gh" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.

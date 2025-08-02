@@ -1,6 +1,19 @@
 # Nxmf
-
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
+
+
+Host<br>
+http://localhost:4200/ <br>
+Microfrontends <br>
+http://localhost:4201<br>
+http://localhost:4200/shop <br>
+http://localhost:4202<br>
+http://localhost:4200/cart <br>
+http://localhost:4203<br>
+http://localhost:4200/about <br>
+
+
+
 
 ✨ Your new, shiny [Nx workspace](https://nx.dev) is almost ready ✨.
 
